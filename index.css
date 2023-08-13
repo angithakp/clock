@@ -1,0 +1,32 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+
+.clock{
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 40%;
+    height: 100%;
+    font-size: 130px;
+    margin-top: 20%;
+    margin-left: 29%;
+    /* min-height: 100vh; */
+    border: 6px solid rgba(20, 18, 18, 0.918);
+    
+}
+
+body{
+    background: url(https://s1.1zoom.me/b5035/540/Sea_Moon_Night_Horizon_563244_1600x1200.jpg);
+    background-size: cover;
+    
+}
+
+/* .clock{
+    width: 100%;
+    box-sizing: 0px 0px 10px black,
+    0px 10px 20px black;
+} */
